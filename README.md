@@ -18,7 +18,7 @@ Code necessary to reproduce the experimentation presented in **A Multi-Objective
 
 # Citation
 
-/**
+```
 @article{panizo2020multi,
   title={A multi-objective genetic algorithm for detecting dynamic communities using a local search driven immigrant’s scheme},
   author={Panizo-LLedot, Angel and Bello-Orgaz, Gema and Camacho, David},
@@ -28,7 +28,7 @@ Code necessary to reproduce the experimentation presented in **A Multi-Objective
   year={2020},
   publisher={Elsevier}
 }
-*/
+```
 
 # Structure
 
