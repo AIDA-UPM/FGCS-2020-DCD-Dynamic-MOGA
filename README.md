@@ -16,6 +16,20 @@ Code necessary to reproduce the experimentation presented in **A Multi-Objective
 8. Use the jupyter notebook inside **host_data** to reproduce the experiment.
 9. Outputs will be generate inside **tables** and **figures** folders.
 
+# Citation
+
+/**
+@article{panizo2020multi,
+  title={A multi-objective genetic algorithm for detecting dynamic communities using a local search driven immigrant’s scheme},
+  author={Panizo-LLedot, Angel and Bello-Orgaz, Gema and Camacho, David},
+  journal={Future Generation Computer Systems},
+  volume={110},
+  pages={960--975},
+  year={2020},
+  publisher={Elsevier}
+}
+*/
+
 # Structure
 
 ├── data<br/>
